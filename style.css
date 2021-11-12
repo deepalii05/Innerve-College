@@ -1,0 +1,435 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #D8E9F0;
+    height: 100%;
+    width: 100%;
+}
+nav{
+    color: bisque;
+    background-color: #29252c;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    padding:5px;
+    align-items: stretch;
+}
+h1{
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.college{
+    padding-top: 10%;
+    padding-left: 30%;
+}
+.logins{
+    width:50%;
+    height: auto;
+    border-width: 2px;
+    border-color: #F33535;
+    border-style: groove;
+    padding: 0.2%;
+}
+.smalllogin{
+    background-color: #29252C;
+}
+.image1{
+  align-content: flex-end;
+  height: 100px;
+}
+#college{
+    background: linear-gradient(#F33535,#D8E9F0,#33425B,#29252C);
+}
+.container{
+  border-radius: 20em;
+  --v:blueviolet;
+  color:var(--c);
+  border: 0.8em solid var(--v);
+  background-color: goldenrod;
+  padding-left: 20%;
+  padding-top: 2%;
+  padding-right: 20%;
+  padding-bottom: 2%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+}
+.section1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size:15px;
+  background-image: url(Society.png);
+  padding-left: 10%;
+   padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 15%;  
+}
+.soc1{
+  margin-left: 15%;
+  align-content: center;
+  text-align: center;
+}
+.society{
+  background-color: #0300007e;
+  width: fit-content;
+  padding: 5%;
+  text-align: center;
+}
+.society:hover{
+  background-color: #000000df;
+  font-weight: bold;
+}
+.section2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size:px;
+  color: antiquewhite;
+  background-image: url(photography1.png);
+  background-size: cover;
+  padding-left: 10%;
+   padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 15%;
+}
+.soc2{
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: center;
+}
+.soc3{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(dance1.png);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 15%;
+  text-transform: uppercase;
+}
+.soc4{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(dancegrp.png);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 15%;
+  text-transform: uppercase;
+}
+h6{
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: center;
+}
+.soc5{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(sing.png);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 15%;
+  text-transform: uppercase;
+}
+.navdivs{
+    padding-left: 80%;
+}
+.soc6{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(hack.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 15%;
+  text-transform: uppercase;
+}
+.soc7{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(story.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 15%;
+  text-transform: uppercase;
+}
+.soc8{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(aurora.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc9{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(dsa.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc10{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(makeup.cms);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc11{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(art.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc12{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(doodle.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc13{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(online.jpg);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.soc14{
+  margin: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: antiquewhite;
+  background-image: url(life.png);
+  background-size: cover;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 25%;
+  text-transform: uppercase;
+}
+.navdiv{
+    background-color: green;
+    --c:goldenrod;
+    color:var(--c);
+    font-size: medium;
+    max-width: fit-content;
+    padding-top:2%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius:0.2em;
+    border: 0.3em solid var(--c);
+}
+.navdiv:hover{
+  --d:green;
+    background-color: goldenrod;
+    cursor: grab;
+    border: 0.3em solid var(--d);
+}
+.frm{
+    padding-top: 5%;
+    padding-left: 20%;
+}
+.btn{
+    --c:goldenrod;
+    color:var(--c);
+    font-size: 16px;
+    border: 0.3em solid var(--c);
+    border-radius: 0.5em;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+    text-align: center;
+    line-height: 2em;
+    transition: 0.5s;
+    margin: 1em;
+}
+.btn:hover{
+    background-color: black;
+    cursor: grab;
+}
+.cent{
+    padding-left: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#msg{
+    background-color: #F33535;
+    color: #D8E9F0;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.error{
+    background-color: #F33535;
+    color: #D8E9F0;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace; 
+}
+/*SOCIETIES IMAGES*/
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: blueviolet;
+  font-size: 50px;
+  padding: 5px 8px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.soc{
+  border-radius: 20em;
+  --v:blueviolet;
+  color:var(--c);
+  border: 0.8em solid var(--v);
+  background-color: goldenrod;
+  padding-left: 20%;
+  padding-top: 2%;
+  padding-right: 20%;
+  padding-bottom: 2%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+}
