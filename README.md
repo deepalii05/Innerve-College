@@ -34,10 +34,8 @@ Here we are directed to the Events organised by Societies</h2>
 8.     DSA Contest:- FLAUNT your problem solving skills and get yourself placements ready
 
 9.     MakeUp in ME!:- Why not Makeup bringing life to your happiness
-
-10.    Artist Corner:- for Artist its best time to GO ON Here! So com’on!1
-
-11.    Doodle In Me Goes Insane:- and this one is for Doodlers
+10.     Artist Corner:- for Artist its best time to GO ON Here! So com’on!
+11.     Doodle In Me Goes Insane:- and this one is for Doodlers
 
 View Society:- With an image Slider of Five images we covered few parts of Events also showed arrows and numbering on those
 
