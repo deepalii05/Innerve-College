@@ -69,10 +69,7 @@ PHP and MYSQL very well
 
 Github Link:- https://github.com/deepalii05/Innerve-College
 
-Hosted :- 
-https://innerveproject.netlify.app/
-
-
+Hosted Link:- https://innerveproject.netlify.app/
 
 Rest:) Thank You So much To Read till here 
 
