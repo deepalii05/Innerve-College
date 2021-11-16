@@ -1,4 +1,4 @@
-<h1>Innerve Institue Of technology</h1>
+<h1>Innerve Institute Of technology</h1>
 Following are the features of the
 webpages accommodated leading to a website where The provided Logos were used
 for logo and the color pallete in words plus using more themes the page was
